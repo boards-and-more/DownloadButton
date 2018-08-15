@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "17F412E121242E7700A34B12"
+               BlueprintIdentifier = "17F413342124316400A34B12"
                BuildableName = "DownloadButton.framework"
                BlueprintName = "DownloadButton"
                ReferencedContainer = "container:DownloadButton.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "17F412E121242E7700A34B12"
+            BlueprintIdentifier = "17F413342124316400A34B12"
             BuildableName = "DownloadButton.framework"
             BlueprintName = "DownloadButton"
             ReferencedContainer = "container:DownloadButton.xcodeproj">
@@ -63,7 +63,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "17F412E121242E7700A34B12"
+            BlueprintIdentifier = "17F413342124316400A34B12"
             BuildableName = "DownloadButton.framework"
             BlueprintName = "DownloadButton"
             ReferencedContainer = "container:DownloadButton.xcodeproj">

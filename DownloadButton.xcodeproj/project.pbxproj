@@ -7,55 +7,55 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		17F412E721242E7700A34B12 /* DownloadButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F412E521242E7700A34B12 /* DownloadButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		17F4130221242EA400A34B12 /* UIImage+PKDownloadButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 17F412EE21242EA400A34B12 /* UIImage+PKDownloadButton.m */; };
-		17F4130321242EA400A34B12 /* PKBorderedButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F412EF21242EA400A34B12 /* PKBorderedButton.h */; };
-		17F4130421242EA400A34B12 /* PKCircleProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 17F412F021242EA400A34B12 /* PKCircleProgressView.m */; };
-		17F4130521242EA400A34B12 /* PKDownloadButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F412F121242EA400A34B12 /* PKDownloadButton.h */; };
-		17F4130621242EA400A34B12 /* CALayer+PKDownloadButtonAnimations.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F412F221242EA400A34B12 /* CALayer+PKDownloadButtonAnimations.h */; };
-		17F4130721242EA400A34B12 /* PKCircleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 17F412F321242EA400A34B12 /* PKCircleView.m */; };
-		17F4130821242EA400A34B12 /* PKStopDownloadButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 17F412F421242EA400A34B12 /* PKStopDownloadButton.m */; };
-		17F4130921242EA400A34B12 /* PKPendingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 17F412F521242EA400A34B12 /* PKPendingView.m */; };
-		17F4130A21242EA400A34B12 /* NSLayoutConstraint+PKDownloadButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F412F621242EA400A34B12 /* NSLayoutConstraint+PKDownloadButton.h */; };
-		17F4130C21242EA400A34B12 /* PKMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F412F821242EA400A34B12 /* PKMacros.h */; };
-		17F4130D21242EA400A34B12 /* CALayer+PKDownloadButtonAnimations.m in Sources */ = {isa = PBXBuildFile; fileRef = 17F412F921242EA400A34B12 /* CALayer+PKDownloadButtonAnimations.m */; };
-		17F4130E21242EA400A34B12 /* PKDownloadButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 17F412FA21242EA400A34B12 /* PKDownloadButton.m */; };
-		17F4130F21242EA400A34B12 /* PKCircleProgressView.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F412FB21242EA400A34B12 /* PKCircleProgressView.h */; };
-		17F4131021242EA400A34B12 /* PKBorderedButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 17F412FC21242EA400A34B12 /* PKBorderedButton.m */; };
-		17F4131121242EA400A34B12 /* UIImage+PKDownloadButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F412FD21242EA400A34B12 /* UIImage+PKDownloadButton.h */; };
-		17F4131221242EA400A34B12 /* PKStopDownloadButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F412FE21242EA400A34B12 /* PKStopDownloadButton.h */; };
-		17F4131321242EA400A34B12 /* PKCircleView.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F412FF21242EA400A34B12 /* PKCircleView.h */; };
-		17F4131421242EA400A34B12 /* NSLayoutConstraint+PKDownloadButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 17F4130021242EA400A34B12 /* NSLayoutConstraint+PKDownloadButton.m */; };
-		17F4131521242EA400A34B12 /* PKPendingView.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F4130121242EA400A34B12 /* PKPendingView.h */; };
+		17F4133A2124316400A34B12 /* DownloadButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F413382124316400A34B12 /* DownloadButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		17F413552124318E00A34B12 /* UIImage+PKDownloadButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 17F413412124318E00A34B12 /* UIImage+PKDownloadButton.m */; };
+		17F413562124318E00A34B12 /* PKBorderedButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F413422124318E00A34B12 /* PKBorderedButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		17F413572124318E00A34B12 /* PKCircleProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 17F413432124318E00A34B12 /* PKCircleProgressView.m */; };
+		17F413582124318E00A34B12 /* PKDownloadButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F413442124318E00A34B12 /* PKDownloadButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		17F413592124318E00A34B12 /* CALayer+PKDownloadButtonAnimations.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F413452124318E00A34B12 /* CALayer+PKDownloadButtonAnimations.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		17F4135A2124318E00A34B12 /* PKCircleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 17F413462124318E00A34B12 /* PKCircleView.m */; };
+		17F4135B2124318E00A34B12 /* PKStopDownloadButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 17F413472124318E00A34B12 /* PKStopDownloadButton.m */; };
+		17F4135C2124318E00A34B12 /* PKPendingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 17F413482124318E00A34B12 /* PKPendingView.m */; };
+		17F4135D2124318E00A34B12 /* NSLayoutConstraint+PKDownloadButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F413492124318E00A34B12 /* NSLayoutConstraint+PKDownloadButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		17F4135F2124318E00A34B12 /* PKMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F4134B2124318E00A34B12 /* PKMacros.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		17F413602124318E00A34B12 /* CALayer+PKDownloadButtonAnimations.m in Sources */ = {isa = PBXBuildFile; fileRef = 17F4134C2124318E00A34B12 /* CALayer+PKDownloadButtonAnimations.m */; };
+		17F413612124318E00A34B12 /* PKDownloadButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 17F4134D2124318E00A34B12 /* PKDownloadButton.m */; };
+		17F413622124318E00A34B12 /* PKCircleProgressView.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F4134E2124318E00A34B12 /* PKCircleProgressView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		17F413632124318E00A34B12 /* PKBorderedButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 17F4134F2124318E00A34B12 /* PKBorderedButton.m */; };
+		17F413642124318E00A34B12 /* UIImage+PKDownloadButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F413502124318E00A34B12 /* UIImage+PKDownloadButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		17F413652124318E00A34B12 /* PKStopDownloadButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F413512124318E00A34B12 /* PKStopDownloadButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		17F413662124318E00A34B12 /* PKCircleView.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F413522124318E00A34B12 /* PKCircleView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		17F413672124318E00A34B12 /* NSLayoutConstraint+PKDownloadButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 17F413532124318E00A34B12 /* NSLayoutConstraint+PKDownloadButton.m */; };
+		17F413682124318E00A34B12 /* PKPendingView.h in Headers */ = {isa = PBXBuildFile; fileRef = 17F413542124318E00A34B12 /* PKPendingView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		17F412E221242E7700A34B12 /* DownloadButton.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DownloadButton.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		17F412E521242E7700A34B12 /* DownloadButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DownloadButton.h; sourceTree = "<group>"; };
-		17F412E621242E7700A34B12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		17F412EE21242EA400A34B12 /* UIImage+PKDownloadButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+PKDownloadButton.m"; sourceTree = "<group>"; };
-		17F412EF21242EA400A34B12 /* PKBorderedButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PKBorderedButton.h; sourceTree = "<group>"; };
-		17F412F021242EA400A34B12 /* PKCircleProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PKCircleProgressView.m; sourceTree = "<group>"; };
-		17F412F121242EA400A34B12 /* PKDownloadButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PKDownloadButton.h; sourceTree = "<group>"; };
-		17F412F221242EA400A34B12 /* CALayer+PKDownloadButtonAnimations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CALayer+PKDownloadButtonAnimations.h"; sourceTree = "<group>"; };
-		17F412F321242EA400A34B12 /* PKCircleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PKCircleView.m; sourceTree = "<group>"; };
-		17F412F421242EA400A34B12 /* PKStopDownloadButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PKStopDownloadButton.m; sourceTree = "<group>"; };
-		17F412F521242EA400A34B12 /* PKPendingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PKPendingView.m; sourceTree = "<group>"; };
-		17F412F621242EA400A34B12 /* NSLayoutConstraint+PKDownloadButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSLayoutConstraint+PKDownloadButton.h"; sourceTree = "<group>"; };
-		17F412F821242EA400A34B12 /* PKMacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PKMacros.h; sourceTree = "<group>"; };
-		17F412F921242EA400A34B12 /* CALayer+PKDownloadButtonAnimations.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CALayer+PKDownloadButtonAnimations.m"; sourceTree = "<group>"; };
-		17F412FA21242EA400A34B12 /* PKDownloadButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PKDownloadButton.m; sourceTree = "<group>"; };
-		17F412FB21242EA400A34B12 /* PKCircleProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PKCircleProgressView.h; sourceTree = "<group>"; };
-		17F412FC21242EA400A34B12 /* PKBorderedButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PKBorderedButton.m; sourceTree = "<group>"; };
-		17F412FD21242EA400A34B12 /* UIImage+PKDownloadButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+PKDownloadButton.h"; sourceTree = "<group>"; };
-		17F412FE21242EA400A34B12 /* PKStopDownloadButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PKStopDownloadButton.h; sourceTree = "<group>"; };
-		17F412FF21242EA400A34B12 /* PKCircleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PKCircleView.h; sourceTree = "<group>"; };
-		17F4130021242EA400A34B12 /* NSLayoutConstraint+PKDownloadButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSLayoutConstraint+PKDownloadButton.m"; sourceTree = "<group>"; };
-		17F4130121242EA400A34B12 /* PKPendingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PKPendingView.h; sourceTree = "<group>"; };
+		17F413352124316400A34B12 /* DownloadButton.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DownloadButton.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		17F413382124316400A34B12 /* DownloadButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DownloadButton.h; sourceTree = "<group>"; };
+		17F413392124316400A34B12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		17F413412124318E00A34B12 /* UIImage+PKDownloadButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+PKDownloadButton.m"; sourceTree = "<group>"; };
+		17F413422124318E00A34B12 /* PKBorderedButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PKBorderedButton.h; sourceTree = "<group>"; };
+		17F413432124318E00A34B12 /* PKCircleProgressView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PKCircleProgressView.m; sourceTree = "<group>"; };
+		17F413442124318E00A34B12 /* PKDownloadButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PKDownloadButton.h; sourceTree = "<group>"; };
+		17F413452124318E00A34B12 /* CALayer+PKDownloadButtonAnimations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CALayer+PKDownloadButtonAnimations.h"; sourceTree = "<group>"; };
+		17F413462124318E00A34B12 /* PKCircleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PKCircleView.m; sourceTree = "<group>"; };
+		17F413472124318E00A34B12 /* PKStopDownloadButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PKStopDownloadButton.m; sourceTree = "<group>"; };
+		17F413482124318E00A34B12 /* PKPendingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PKPendingView.m; sourceTree = "<group>"; };
+		17F413492124318E00A34B12 /* NSLayoutConstraint+PKDownloadButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSLayoutConstraint+PKDownloadButton.h"; sourceTree = "<group>"; };
+		17F4134B2124318E00A34B12 /* PKMacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PKMacros.h; sourceTree = "<group>"; };
+		17F4134C2124318E00A34B12 /* CALayer+PKDownloadButtonAnimations.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CALayer+PKDownloadButtonAnimations.m"; sourceTree = "<group>"; };
+		17F4134D2124318E00A34B12 /* PKDownloadButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PKDownloadButton.m; sourceTree = "<group>"; };
+		17F4134E2124318E00A34B12 /* PKCircleProgressView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PKCircleProgressView.h; sourceTree = "<group>"; };
+		17F4134F2124318E00A34B12 /* PKBorderedButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PKBorderedButton.m; sourceTree = "<group>"; };
+		17F413502124318E00A34B12 /* UIImage+PKDownloadButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+PKDownloadButton.h"; sourceTree = "<group>"; };
+		17F413512124318E00A34B12 /* PKStopDownloadButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PKStopDownloadButton.h; sourceTree = "<group>"; };
+		17F413522124318E00A34B12 /* PKCircleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PKCircleView.h; sourceTree = "<group>"; };
+		17F413532124318E00A34B12 /* NSLayoutConstraint+PKDownloadButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSLayoutConstraint+PKDownloadButton.m"; sourceTree = "<group>"; };
+		17F413542124318E00A34B12 /* PKPendingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PKPendingView.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		17F412DE21242E7700A34B12 /* Frameworks */ = {
+		17F413312124316400A34B12 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -65,54 +65,54 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		17F412D821242E7700A34B12 = {
+		17F4132B2124316400A34B12 = {
 			isa = PBXGroup;
 			children = (
-				17F412ED21242EA400A34B12 /* Classes */,
-				17F412E421242E7700A34B12 /* DownloadButton */,
-				17F412E321242E7700A34B12 /* Products */,
+				17F413402124318E00A34B12 /* Classes */,
+				17F413372124316400A34B12 /* Xcode */,
+				17F413362124316400A34B12 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		17F412E321242E7700A34B12 /* Products */ = {
+		17F413362124316400A34B12 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				17F412E221242E7700A34B12 /* DownloadButton.framework */,
+				17F413352124316400A34B12 /* DownloadButton.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		17F412E421242E7700A34B12 /* DownloadButton */ = {
+		17F413372124316400A34B12 /* Xcode */ = {
 			isa = PBXGroup;
 			children = (
-				17F412E521242E7700A34B12 /* DownloadButton.h */,
-				17F412E621242E7700A34B12 /* Info.plist */,
+				17F413382124316400A34B12 /* DownloadButton.h */,
+				17F413392124316400A34B12 /* Info.plist */,
 			);
-			path = DownloadButton;
+			path = Xcode;
 			sourceTree = "<group>";
 		};
-		17F412ED21242EA400A34B12 /* Classes */ = {
+		17F413402124318E00A34B12 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				17F412F221242EA400A34B12 /* CALayer+PKDownloadButtonAnimations.h */,
-				17F412F921242EA400A34B12 /* CALayer+PKDownloadButtonAnimations.m */,
-				17F412F621242EA400A34B12 /* NSLayoutConstraint+PKDownloadButton.h */,
-				17F4130021242EA400A34B12 /* NSLayoutConstraint+PKDownloadButton.m */,
-				17F412EF21242EA400A34B12 /* PKBorderedButton.h */,
-				17F412FC21242EA400A34B12 /* PKBorderedButton.m */,
-				17F412FB21242EA400A34B12 /* PKCircleProgressView.h */,
-				17F412F021242EA400A34B12 /* PKCircleProgressView.m */,
-				17F412FF21242EA400A34B12 /* PKCircleView.h */,
-				17F412F321242EA400A34B12 /* PKCircleView.m */,
-				17F412F121242EA400A34B12 /* PKDownloadButton.h */,
-				17F412FA21242EA400A34B12 /* PKDownloadButton.m */,
-				17F412F821242EA400A34B12 /* PKMacros.h */,
-				17F4130121242EA400A34B12 /* PKPendingView.h */,
-				17F412F521242EA400A34B12 /* PKPendingView.m */,
-				17F412FE21242EA400A34B12 /* PKStopDownloadButton.h */,
-				17F412F421242EA400A34B12 /* PKStopDownloadButton.m */,
-				17F412FD21242EA400A34B12 /* UIImage+PKDownloadButton.h */,
-				17F412EE21242EA400A34B12 /* UIImage+PKDownloadButton.m */,
+				17F413452124318E00A34B12 /* CALayer+PKDownloadButtonAnimations.h */,
+				17F4134C2124318E00A34B12 /* CALayer+PKDownloadButtonAnimations.m */,
+				17F413492124318E00A34B12 /* NSLayoutConstraint+PKDownloadButton.h */,
+				17F413532124318E00A34B12 /* NSLayoutConstraint+PKDownloadButton.m */,
+				17F413422124318E00A34B12 /* PKBorderedButton.h */,
+				17F4134F2124318E00A34B12 /* PKBorderedButton.m */,
+				17F4134E2124318E00A34B12 /* PKCircleProgressView.h */,
+				17F413432124318E00A34B12 /* PKCircleProgressView.m */,
+				17F413522124318E00A34B12 /* PKCircleView.h */,
+				17F413462124318E00A34B12 /* PKCircleView.m */,
+				17F413442124318E00A34B12 /* PKDownloadButton.h */,
+				17F4134D2124318E00A34B12 /* PKDownloadButton.m */,
+				17F4134B2124318E00A34B12 /* PKMacros.h */,
+				17F413542124318E00A34B12 /* PKPendingView.h */,
+				17F413482124318E00A34B12 /* PKPendingView.m */,
+				17F413512124318E00A34B12 /* PKStopDownloadButton.h */,
+				17F413472124318E00A34B12 /* PKStopDownloadButton.m */,
+				17F413502124318E00A34B12 /* UIImage+PKDownloadButton.h */,
+				17F413412124318E00A34B12 /* UIImage+PKDownloadButton.m */,
 			);
 			name = Classes;
 			path = Pod/Classes;
@@ -121,35 +121,35 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		17F412DF21242E7700A34B12 /* Headers */ = {
+		17F413322124316400A34B12 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				17F4130621242EA400A34B12 /* CALayer+PKDownloadButtonAnimations.h in Headers */,
-				17F4130321242EA400A34B12 /* PKBorderedButton.h in Headers */,
-				17F4130F21242EA400A34B12 /* PKCircleProgressView.h in Headers */,
-				17F4131121242EA400A34B12 /* UIImage+PKDownloadButton.h in Headers */,
-				17F4130C21242EA400A34B12 /* PKMacros.h in Headers */,
-				17F4131521242EA400A34B12 /* PKPendingView.h in Headers */,
-				17F4130A21242EA400A34B12 /* NSLayoutConstraint+PKDownloadButton.h in Headers */,
-				17F4131321242EA400A34B12 /* PKCircleView.h in Headers */,
-				17F4131221242EA400A34B12 /* PKStopDownloadButton.h in Headers */,
-				17F412E721242E7700A34B12 /* DownloadButton.h in Headers */,
-				17F4130521242EA400A34B12 /* PKDownloadButton.h in Headers */,
+				17F413592124318E00A34B12 /* CALayer+PKDownloadButtonAnimations.h in Headers */,
+				17F413562124318E00A34B12 /* PKBorderedButton.h in Headers */,
+				17F413622124318E00A34B12 /* PKCircleProgressView.h in Headers */,
+				17F413642124318E00A34B12 /* UIImage+PKDownloadButton.h in Headers */,
+				17F4135F2124318E00A34B12 /* PKMacros.h in Headers */,
+				17F413682124318E00A34B12 /* PKPendingView.h in Headers */,
+				17F4135D2124318E00A34B12 /* NSLayoutConstraint+PKDownloadButton.h in Headers */,
+				17F413662124318E00A34B12 /* PKCircleView.h in Headers */,
+				17F413652124318E00A34B12 /* PKStopDownloadButton.h in Headers */,
+				17F4133A2124316400A34B12 /* DownloadButton.h in Headers */,
+				17F413582124318E00A34B12 /* PKDownloadButton.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		17F412E121242E7700A34B12 /* DownloadButton */ = {
+		17F413342124316400A34B12 /* DownloadButton */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 17F412EA21242E7700A34B12 /* Build configuration list for PBXNativeTarget "DownloadButton" */;
+			buildConfigurationList = 17F4133D2124316400A34B12 /* Build configuration list for PBXNativeTarget "DownloadButton" */;
 			buildPhases = (
-				17F412DD21242E7700A34B12 /* Sources */,
-				17F412DE21242E7700A34B12 /* Frameworks */,
-				17F412DF21242E7700A34B12 /* Headers */,
-				17F412E021242E7700A34B12 /* Resources */,
+				17F413302124316400A34B12 /* Sources */,
+				17F413312124316400A34B12 /* Frameworks */,
+				17F413322124316400A34B12 /* Headers */,
+				17F413332124316400A34B12 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -157,42 +157,42 @@
 			);
 			name = DownloadButton;
 			productName = DownloadButton;
-			productReference = 17F412E221242E7700A34B12 /* DownloadButton.framework */;
+			productReference = 17F413352124316400A34B12 /* DownloadButton.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		17F412D921242E7700A34B12 /* Project object */ = {
+		17F4132C2124316400A34B12 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0940;
 				ORGANIZATIONNAME = "Boards & More";
 				TargetAttributes = {
-					17F412E121242E7700A34B12 = {
+					17F413342124316400A34B12 = {
 						CreatedOnToolsVersion = 9.4.1;
 					};
 				};
 			};
-			buildConfigurationList = 17F412DC21242E7700A34B12 /* Build configuration list for PBXProject "DownloadButton" */;
+			buildConfigurationList = 17F4132F2124316400A34B12 /* Build configuration list for PBXProject "DownloadButton" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = 17F412D821242E7700A34B12;
-			productRefGroup = 17F412E321242E7700A34B12 /* Products */;
+			mainGroup = 17F4132B2124316400A34B12;
+			productRefGroup = 17F413362124316400A34B12 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				17F412E121242E7700A34B12 /* DownloadButton */,
+				17F413342124316400A34B12 /* DownloadButton */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		17F412E021242E7700A34B12 /* Resources */ = {
+		17F413332124316400A34B12 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -202,26 +202,26 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		17F412DD21242E7700A34B12 /* Sources */ = {
+		17F413302124316400A34B12 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				17F4130721242EA400A34B12 /* PKCircleView.m in Sources */,
-				17F4131421242EA400A34B12 /* NSLayoutConstraint+PKDownloadButton.m in Sources */,
-				17F4130421242EA400A34B12 /* PKCircleProgressView.m in Sources */,
-				17F4130821242EA400A34B12 /* PKStopDownloadButton.m in Sources */,
-				17F4131021242EA400A34B12 /* PKBorderedButton.m in Sources */,
-				17F4130921242EA400A34B12 /* PKPendingView.m in Sources */,
-				17F4130221242EA400A34B12 /* UIImage+PKDownloadButton.m in Sources */,
-				17F4130E21242EA400A34B12 /* PKDownloadButton.m in Sources */,
-				17F4130D21242EA400A34B12 /* CALayer+PKDownloadButtonAnimations.m in Sources */,
+				17F4135A2124318E00A34B12 /* PKCircleView.m in Sources */,
+				17F413672124318E00A34B12 /* NSLayoutConstraint+PKDownloadButton.m in Sources */,
+				17F413572124318E00A34B12 /* PKCircleProgressView.m in Sources */,
+				17F4135B2124318E00A34B12 /* PKStopDownloadButton.m in Sources */,
+				17F413632124318E00A34B12 /* PKBorderedButton.m in Sources */,
+				17F4135C2124318E00A34B12 /* PKPendingView.m in Sources */,
+				17F413552124318E00A34B12 /* UIImage+PKDownloadButton.m in Sources */,
+				17F413612124318E00A34B12 /* PKDownloadButton.m in Sources */,
+				17F413602124318E00A34B12 /* CALayer+PKDownloadButtonAnimations.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		17F412E821242E7700A34B12 /* Debug */ = {
+		17F4133B2124316400A34B12 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -273,7 +273,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -284,7 +284,7 @@
 			};
 			name = Debug;
 		};
-		17F412E921242E7700A34B12 /* Release */ = {
+		17F4133C2124316400A34B12 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -330,7 +330,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
@@ -341,7 +341,7 @@
 			};
 			name = Release;
 		};
-		17F412EB21242E7700A34B12 /* Debug */ = {
+		17F4133E2124316400A34B12 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
@@ -350,7 +350,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = DownloadButton/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Xcode/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -365,7 +365,7 @@
 			};
 			name = Debug;
 		};
-		17F412EC21242E7700A34B12 /* Release */ = {
+		17F4133F2124316400A34B12 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
@@ -374,7 +374,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = DownloadButton/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Xcode/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -392,25 +392,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		17F412DC21242E7700A34B12 /* Build configuration list for PBXProject "DownloadButton" */ = {
+		17F4132F2124316400A34B12 /* Build configuration list for PBXProject "DownloadButton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				17F412E821242E7700A34B12 /* Debug */,
-				17F412E921242E7700A34B12 /* Release */,
+				17F4133B2124316400A34B12 /* Debug */,
+				17F4133C2124316400A34B12 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		17F412EA21242E7700A34B12 /* Build configuration list for PBXNativeTarget "DownloadButton" */ = {
+		17F4133D2124316400A34B12 /* Build configuration list for PBXNativeTarget "DownloadButton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				17F412EB21242E7700A34B12 /* Debug */,
-				17F412EC21242E7700A34B12 /* Release */,
+				17F4133E2124316400A34B12 /* Debug */,
+				17F4133F2124316400A34B12 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 17F412D921242E7700A34B12 /* Project object */;
+	rootObject = 17F4132C2124316400A34B12 /* Project object */;
 }
