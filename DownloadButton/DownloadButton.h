@@ -14,6 +14,14 @@ FOUNDATION_EXPORT double DownloadButtonVersionNumber;
 //! Project version string for DownloadButton.
 FOUNDATION_EXPORT const unsigned char DownloadButtonVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <DownloadButton/PublicHeader.h>
-
-
+// Public headers of framework
+#import "CALayer+PKDownloadButtonAnimations.h"
+#import "NSLayoutConstraint+PKDownloadButton.h"
+#import "PKBorderedButton.h"
+#import "PKCircleProgressView.h"
+#import "PKCircleView.h"
+#import "PKDownloadButton.h"
+#import "PKMacros.h"
+#import "PKPendingView.h"
+#import "PKStopDownloadButton.h"
+#import "UIImage+PKDownloadButton.h"
