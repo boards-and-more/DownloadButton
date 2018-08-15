@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../DownloadButton.podspec">
+   </FileRef>
+   <FileRef
+      location = "group:../LICENSE">
+   </FileRef>
+   <Group
+      location = "group:../Pod"
+      name = "Pod">
+      <Group
+         location = "group:Classes"
+         name = "Classes">
+         <FileRef
+            location = "group:UIImage+PKDownloadButton.m">
+         </FileRef>
+         <FileRef
+            location = "group:PKBorderedButton.h">
+         </FileRef>
+         <FileRef
+            location = "group:PKCircleProgressView.m">
+         </FileRef>
+         <FileRef
+            location = "group:PKDownloadButton.h">
+         </FileRef>
+         <FileRef
+            location = "group:CALayer+PKDownloadButtonAnimations.h">
+         </FileRef>
+         <FileRef
+            location = "group:PKCircleView.m">
+         </FileRef>
+         <FileRef
+            location = "group:PKStopDownloadButton.m">
+         </FileRef>
+         <FileRef
+            location = "group:PKPendingView.m">
+         </FileRef>
+         <FileRef
+            location = "group:NSLayoutConstraint+PKDownloadButton.h">
+         </FileRef>
+         <FileRef
+            location = "group:PKMacros.h">
+         </FileRef>
+         <FileRef
+            location = "group:CALayer+PKDownloadButtonAnimations.m">
+         </FileRef>
+         <FileRef
+            location = "group:PKDownloadButton.m">
+         </FileRef>
+         <FileRef
+            location = "group:PKCircleProgressView.h">
+         </FileRef>
+         <FileRef
+            location = "group:PKBorderedButton.m">
+         </FileRef>
+         <FileRef
+            location = "group:UIImage+PKDownloadButton.h">
+         </FileRef>
+         <FileRef
+            location = "group:PKStopDownloadButton.h">
+         </FileRef>
+         <FileRef
+            location = "group:PKCircleView.h">
+         </FileRef>
+         <FileRef
+            location = "group:NSLayoutConstraint+PKDownloadButton.m">
+         </FileRef>
+         <FileRef
+            location = "group:PKPendingView.h">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Assets"
+         name = "Assets">
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:../README.md">
+   </FileRef>
+   <Group
+      location = "group:../Xcode"
+      name = "Xcode">
+      <FileRef
+         location = "group:DownloadButton.h">
+      </FileRef>
+      <FileRef
+         location = "group:Info.plist">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
